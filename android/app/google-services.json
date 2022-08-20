@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096604254435",
+    "project_id": "multi-vendor-project-30b3b",
+    "storage_bucket": "multi-vendor-project-30b3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096604254435:android:dbb7e614a1a055fd6285d6",
+        "android_client_info": {
+          "package_name": "com.macaulayfamous.rentkars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096604254435-8j9l0cc3nnulcp03p37u24bfuv3utlv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcpvSDnSe17-pptMHyayaS9vCaKfg2HkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096604254435-8j9l0cc3nnulcp03p37u24bfuv3utlv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
